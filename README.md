@@ -1,1 +1,2 @@
-# Test of branch commit & push & pulled
+# Editing heading locally & remotely (merged)
+
